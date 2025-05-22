@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "368257958192",
+    "project_id": "teamez-51fa8",
+    "storage_bucket": "teamez-51fa8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368257958192:android:405c02173667223c8d48f5",
+        "android_client_info": {
+          "package_name": "com.example.teamez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368257958192-vu2gth9crkdscrbg2trk9lln24kebpn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teamez",
+            "certificate_hash": "08b4b11908279159e907bbb1915171623213bb68"
+          }
+        },
+        {
+          "client_id": "368257958192-j7l6sq175okml0rb4ibbd819iaeav9t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKaD2bZlHVsLlzlu99X1BEmj42WcvfxhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368257958192-j7l6sq175okml0rb4ibbd819iaeav9t6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368257958192-psmjfbmioc1802r3dteqdgl9coakjveu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.teamez"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

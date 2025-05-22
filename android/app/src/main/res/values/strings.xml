@@ -1,0 +1,7 @@
+<resources>
+    <string name="facebook_app_id">1117387210186541</string>
+    <string name="facebook_client_token">0512c2df5c376606100367a1c954bcbe</string>
+    <string name="fb_login_protocol_scheme">fb1117387210186541</string>
+    <string name="twitter_consumer_key">BpZm4L3FGRHNJA3iGzBbWnv1F</string>
+    <string name="twitter_consumer_secret">5qzTNvmDnbQOfYVusK6X3TUFBLf8ca9yNECAzhj3RufZ1VcWqa</string>
+</resources>
