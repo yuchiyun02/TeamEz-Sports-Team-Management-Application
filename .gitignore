@@ -28,3 +28,10 @@ doc/api/
 
 # Ignore Firebase configuration
 lib/firebase_options.dart
+
+# Firebase service account keys
+**/serviceAccountKey.json
+
+# Environment files
+.env
+.env.*
